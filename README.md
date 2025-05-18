@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-EDA-
 ## 📘 Overview
-This individual project explores layoff trends in the tech industry using the Layoffs 2022 dataset from Kaggle. The analysis was conducted entirely using SQL (MySQL) and focused on uncovering insights related to company size, industry, geography, funding stage, and timing of layoffs.
+This individual project explores layoff trends in different industries using the Layoffs dataset from Kaggle. The analysis was conducted entirely using SQL (MySQL) and focused on uncovering insights related to company size, industry, geography, funding stage, and timing of layoffs.
 
 ## 🎯 Objectives
 - Identify companies with the largest layoffs (single and total)
